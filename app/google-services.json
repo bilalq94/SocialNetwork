@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "175556902989",
+    "firebase_url": "https://socialnetwork-490d4.firebaseio.com",
+    "project_id": "socialnetwork-490d4",
+    "storage_bucket": "socialnetwork-490d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175556902989:android:24dcc5441474be8a",
+        "android_client_info": {
+          "package_name": "qureshi.bilal.socialnetwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175556902989-jqbt2fkvu35p25teflpf7m4i7j0mcllt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "qureshi.bilal.socialnetwork",
+            "certificate_hash": "9f23af5de70ff25acff0dd94ff158a666fdd42f3"
+          }
+        },
+        {
+          "client_id": "175556902989-4mokg3213bfki0qj6upskontcuddkmfc.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "175556902989-4mokg3213bfki0qj6upskontcuddkmfc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA35tdg6xQWi4mx7Yq_bJfIo7xMh0BmGJo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175556902989-4mokg3213bfki0qj6upskontcuddkmfc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
